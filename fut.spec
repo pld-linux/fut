@@ -1,13 +1,13 @@
 Summary:	Fusion Transpiler
 Summary(pl.UTF-8):	Konwerter języka Fusion
 Name:		fut
-Version:	3.2.7
+Version:	3.2.14
 Release:	1
 License:	GPL v3+
 Group:		Development/Languages
 #Source0Download: https://github.com/fusionlanguage/fut/releases
 Source0:	https://github.com/fusionlanguage/fut/archive/%{name}-%{version}/%{name}-%{version}.tar.gz
-# Source0-md5:	09b0299bd8ebddea58f09e906ff474ae
+# Source0-md5:	7e362b4b916a07c0d62550d1fcbf462c
 URL:		https://github.com/fusionlanguage/fut
 # C++20 with <format>
 BuildRequires:	libstdc++-devel >= 6:13.1
